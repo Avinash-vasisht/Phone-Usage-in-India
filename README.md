@@ -21,3 +21,4 @@ This project explores mobile phone usage patterns in India using Python, Pandas,
 * Python (Pandas)
 * Matplotlib & Seaborn (for visualizations)
 * Jupyter Notebook (for analysis)
+https://github.com/Avinash-vasisht/Phone-Usage-in-India/blob/main/Phone%20Usage%20in%20India.pdf
